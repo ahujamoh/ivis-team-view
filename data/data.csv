@@ -1,0 +1,40 @@
+who,prefers,count
+"Mohit","Evaluation",2000
+"Mohit","User & Design Research",2000
+"Sara","Evaluation",2000
+"Sara","User & Design Research",2000
+"Fanny","Evaluation",2000
+"Fanny","User & Design Research",2000
+"Robin","UI & UX Design",2000
+"Robin","Programming",2000
+"Mustafa","UI & UX Design",2000
+"Mustafa","Programming",2000
+"Dora","UI & UX Design",2000
+"Dora","Programming",2000
+"Matyas","Data Processing",2000
+"Matyas","Programming",2000
+"Matyas","Statistics",2000
+"Daniel","Data Processing",2000
+"Daniel","Programming",2000
+"Daniel","Machine Learning",2000
+"Evaluation","Mohit",2000
+"Evaluation","Sara",2000
+"Evaluation","Fanny",2000
+"User & Design Research","Mohit",2000
+"User & Design Research","Sara",2000
+"User & Design Research","Fanny",2000
+"UI & UX Design","Robin",2000
+"UI & UX Design","Mustafa",2000
+"UI & UX Design","Dora",2000
+"Programming","Robin",2000
+"Programming","Dora",2000
+"Programming","Mustafa",2000
+"Programming","Matyas",2000
+"Programming","Daniel",2000
+"Data Processing","Daniel",2000
+"Machine Learning","Daniel",2000
+"Data Processing","Matyas",2000
+"Statistics","Matyas",2000
+
+
+
